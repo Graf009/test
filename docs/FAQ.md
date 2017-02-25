@@ -1,10 +1,3 @@
- - [Project Overview](/internal/docs/PROJECT_OVERVIEW.md)
- - [Project Configuration](/internal/docs/PROJECT_CONFIG.md)
- - [Package Script Commands](/internal/docs/PKG_SCRIPTS.md)
- - [Feature Branches](/internal/docs/FEATURE_BRANCHES.md)
- - [Deploy your very own Server Side Rendering React App in 5 easy steps](/internal/docs/DEPLOY_TO_NOW.md)
- - __[FAQ](/internal/docs/FAQ.md)__
-
 # Frequently Asked Questions
 
 ___Q:___ __Why do you structure your dependencies like they are?__

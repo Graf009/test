@@ -1,0 +1,14 @@
+{
+  "gitbook": "3.2.2",
+  "title": "Magma",
+  "plugins": ["edit-link", "prism", "-highlight", "github", "anchorjs"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/lab009/magma/tree/master",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/lab009/magma/"
+    }
+  }
+}
